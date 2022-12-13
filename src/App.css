@@ -1,0 +1,17 @@
+@import url('https://fonts.cdnfonts.com/css/zanzabar');
+.slick-arrow,.slick-next,.slick-dots{
+  display: none !important;
+}
+.slick-slider{
+  margin-bottom: 0 !important;
+}
+
+.logo{
+  font-family: 'Zanzabar', sans-serif;
+}
+
+.logo-footer{
+  font-family: 'Zanzabar', sans-serif;
+  font-size: 2rem;
+}
+
